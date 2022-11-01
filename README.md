@@ -1,6 +1,7 @@
                                                           Flappy Bird VideoGame
                                                      
                                          
-This project is a Flappy Plane Videogame programmed in Java. The game runs on 60 FPS(Frames per second) on a 16 by 12  JFrame window.     
+-Designed a Flappy Plane Videogame in Java that game runs on 60 FPS(Frames per second) on a 16 by 12  JFrame window.     
 
-A fun endless runner, avoiding tunnels and collecting coins. 
+-Created a fun endless runner using sprites with a simple keystroke listener, the space bar, collision detction set in place, so avoid the tunnels, and collecting coins with score tracking and level updated onto the screen. 
+
